@@ -13,6 +13,8 @@ from ai_engine import generate_tutoring_response, generate_quiz
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+
+
 app = FastAPI(
     title="AI Tutor API",
     description="API for generating personalized tutoring content and quizzes",
