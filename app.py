@@ -30,7 +30,7 @@ with st.sidebar:
     
 
 
-API_ENDPOINT = "https://ai--tutor.onrender.com"
+API_ENDPOINT = "http://127.0.0.1:8000"
 
 tab1, tab2 = st.tabs([" Ask a Question", "Take a Quiz"])
 
