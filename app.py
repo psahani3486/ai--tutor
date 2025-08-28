@@ -30,7 +30,7 @@ with st.sidebar:
     
 
 
-API_ENDPOINT = "https://ai-tutor.onrender.com"
+API_ENDPOINT = "https://ai--tutor.onrender.com"
 
 tab1, tab2 = st.tabs([" Ask a Question", "Take a Quiz"])
 
